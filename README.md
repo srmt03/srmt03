@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**srmt03/srmt03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <div align="center">💻Samuel Rodrigues de Matos💻</div>
 
-Here are some ideas to get you started:
+#### 🎓 Cursando técnico em <strong>Desenvolvimento de Sistemas</strong> no SENAI
+#### ✍🏻 Javacript, HTML, CSS, Node.js, Express, Kotlin e Jetpack Compose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <div align="center">
+  <img height="170em"width="400em" src="https://github-readme-stats.vercel.app/api?username=MalvzMK1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em"width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmt03&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<!---->
+   ![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,express,kotlin,mysql,figma)
+<hr>
+
+<div align="center">
+  <a href = "mailto:contact.s.rodriguesmt03@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-matos-8561b4242/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+</div>
