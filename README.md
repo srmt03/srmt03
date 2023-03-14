@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # <div align="center">💻Samuel Rodrigues de Matos💻</div>
 
 #### 🎓 Cursando técnico em <strong>Desenvolvimento de Sistemas</strong> no SENAI
