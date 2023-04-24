@@ -1,4 +1,4 @@
-# <div align="center">💻Samuel Rodrigues de Matos💻</div>
+# <div align="center">💻 Samuel Rodrigues de Matos 💻</div>
 
 #### 🎓 Cursando técnico em <strong>Desenvolvimento de Sistemas</strong> no SENAI
 #### ✍🏻 Javacript, HTML, CSS, Node.js, Express, Kotlin e Jetpack Compose
