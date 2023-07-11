@@ -9,7 +9,7 @@
 </div>
 
 <!---->
-   ![My Skills](https://skills.thijs.gg/icons?i=html5,css3,js,nodejs,express,kotlin,mysql,figma)
+   ![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,express,kotlin,mysql,figma)
 <hr>
 
 <div align="center">
