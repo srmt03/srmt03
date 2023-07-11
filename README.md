@@ -8,6 +8,8 @@
   <img height="170em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=srmt03&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+<div height="1em"></div>
+
 <!---->
    ![My Skills](https://skills.thijs.gg/icons?i=html,css,js,nodejs,express,kotlin,mysql,figma)
 <hr>
