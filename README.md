@@ -36,14 +36,11 @@ Tenho conhecimento prático em Back-End, Banco de Dados, Front-End, RPAs e Mobil
     <a href="#">
       <img align="center" height="180em" src="https://github-readme-stats-vss9.vercel.app/api?username=srmt03&show_icons=true&theme=midnight-purple&include_all_commits=true&border_radius=12&hide_border=true&count_private=true)](https://git.io/streak-stats" />
     </a>
-    <a href="#">
-      <img align="center" height="180em" src="https://github-readme-stats-vss9.vercel.app/api/top-langs/?layout=compact&theme=midnight-purple&hide_border=true&border_radius=12&count_private=true&username=srmt03&hide=ejs,html,css,scss"/>
-    </a>
   </div>
   <br>
   <div>
     <a href="#">
-      <img align="center" height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api/top-langs/?layout=compact&theme=midnight-purple&hide_border=true&border_radius=12&count_private=true&username=srmt03&hide=ejs,html,css,scss"/>
+      <img align="center" height="180em" src="https://github-readme-stats-vss9.vercel.app/api/top-langs/?layout=compact&theme=midnight-purple&hide_border=true&border_radius=12&count_private=true&username=srmt03&hide=ejs,html,css,scss"/>
     </a>
   </div>
 </div>
