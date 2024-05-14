@@ -48,7 +48,7 @@ Tenho conhecimento prático em Back-End, Banco de Dados, Front-End, RPAs e Mobil
 ##
 <div align="center">
 
-   [![My Skills](https://skills.thijs.gg/icons?i=selenium,cs,net,visualstudio,vscode,mysql,html,css,js,nodejs,express,git)](https://skills.thijs.gg)
+   [![My Skills](https://skillicons.dev/icons?i=selenium,cs,net,visualstudio,vscode,mysql,html,css,js,nodejs,express,git)](https://skills.thijs.gg)
    
 </div>
 <div align="center">
